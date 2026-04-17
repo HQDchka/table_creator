@@ -173,6 +173,7 @@
 ```
 project/
 ├── README.md                 # Документация (данный файл)
+├── Product promotion and implementation.md # Возможное продвижение продукта
 └── code/
     ├── index.html           # Главный HTML файл
     ├── script.js            # JavaScript логика приложения
